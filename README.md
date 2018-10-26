@@ -6,7 +6,7 @@ These are the Olympus Command Line Interface (CLI) Tools. They can be used to:
 
 ## Installation
 
-To install the Olympus CLI, you first need to [sign up for a Olympus account](https://https://olympus-1bd1a.firebaseapp.com/).
+To install the Olympus CLI, you first need to [sign up for a Olympus account](https://olympus-1bd1a.firebaseapp.com/).
 
 Then you need to install [Node.js](http://nodejs.org/) and [npm](https://npmjs.org/). Note that installing Node.js should install npm as well.
 
